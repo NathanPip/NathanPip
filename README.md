@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathan Piper</h1>
 <h3 align="center">A passionate web developer from Petaluma, CA</h3>
 
-- 🔭 I’m currently working at ARTFX META
+- 🌱 I’m currently using Next.js
 
-- 🌱 I’m currently using THREE.JS and A-Frame
+- 👨‍💻 All of my projects are available at [nathanpip.netlify.app](nathanpip.netlify.app)
 
-- 👨‍💻 All of my projects are available at [nathanpiper.netlify.app](nathanpiper.netlify.app)
-
-- 💬 Ask me about **react, node, javascript, A-frame, THREE.js, WebGL, UI/UX Design**
+- 💬 Ask me about **React, typescript, Next.js, SolidJS, A-frame, THREE.js, WebGL, UI/UX Design**
 
 - 📫 How to reach me **nathan.piper.sd@gmail.com**
 
