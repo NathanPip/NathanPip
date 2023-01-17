@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nather</h1>
-<h3 align="center">A passionate full stack web developer who's addicted to bleeding responsibly</h3>
+<h3 align="center">A passionate full stack web developer and software generalist</h3>
 
 - 🔭 I’m currently working on **a bunch of stuff**
 
