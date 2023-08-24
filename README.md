@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nather</h1>
-<h3 align="center">A passionate full stack web developer and software generalist</h3>
-
-- 🔭 I’m currently working on **a bunch of stuff**
-
-- 👨‍💻 All of my projects and experience are available at [nathanpip.netlify.app](nathanpip.netlify.app)
-
-- 💬 Ask me about **Typescript, React, WebGL, Three.js, Next.js**
-
-- 📫 How to reach me **nathan.piper.sd@gmail.com or @NathanPiperr**
-
-- ⚡ Fun fact **I make games too**
+<h3 align="center">I Write a Lot of Software</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
